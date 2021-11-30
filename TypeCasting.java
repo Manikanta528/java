@@ -23,7 +23,7 @@ public class TypeCasting {
 //        int num = a * b / c;
 //        System.out.println(num);
 
-        System.out.println(3 * 27.5);
+//        System.out.println(3 * 27.5);
 
     }
 }
