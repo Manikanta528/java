@@ -25,5 +25,9 @@ public class TypeCasting {
 
 //        System.out.println(3 * 27.5);
 
+        if (true){
+            System.out.println("Hello World!");
+        }
+
     }
 }
