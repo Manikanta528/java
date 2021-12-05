@@ -1,6 +1,6 @@
 package com.manikanta;
 
-public class ConditionalsAndLoops {
+public class Conditionals {
     public static void main(String[] args) {
         /*
         Multiline
