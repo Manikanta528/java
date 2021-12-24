@@ -1,4 +1,4 @@
-package com.manikanta;
+package com.manikanta.conditionsAndLoops;
 
 import java.util.Scanner;
 

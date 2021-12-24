@@ -1,4 +1,4 @@
-package com.manikanta;
+package com.manikanta.conditionsAndLoops;
 
 public class Conditionals {
     public static void main(String[] args) {
