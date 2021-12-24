@@ -1,4 +1,4 @@
-package com.manikanta;
+package com.manikanta.LinearSearch;
 
 import java.util.Arrays;
 

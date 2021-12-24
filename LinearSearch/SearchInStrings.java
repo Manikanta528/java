@@ -1,4 +1,4 @@
-package com.manikanta;
+package com.manikanta.LinearSearch;
 
 public class SearchInStrings {
     public static void main(String[] args) {

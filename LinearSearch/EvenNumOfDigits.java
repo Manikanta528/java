@@ -1,4 +1,4 @@
-package com.manikanta;
+package com.manikanta.LinearSearch;
 import java.util.*;
 //https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 
