@@ -1,4 +1,4 @@
-# java+DSA
+# JAVA+DSA
 
 full resources : 
 <br/>
