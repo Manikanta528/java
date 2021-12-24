@@ -1,4 +1,4 @@
-package com.manikanta;
+package com.manikanta.Arrays;
 import java.util.*;
 
 public class MultiDimension {
