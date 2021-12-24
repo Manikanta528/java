@@ -1,6 +1,6 @@
 # JAVA+DSA
+<h2>@kunal-kushwaha</h2>
 <br/>
-<h2>@kunal-kushwaha</h2><br/>
 full resources : 
 <br/>
 git-hub - https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
