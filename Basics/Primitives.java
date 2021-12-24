@@ -1,4 +1,4 @@
-package com.manikanta;
+package com.manikanta.Basics;
 
 public class Primitives {
     public static void main(String[] args) {
