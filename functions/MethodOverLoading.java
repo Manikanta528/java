@@ -1,4 +1,4 @@
-package com.manikanta;
+package com.manikanta.functions;
 
 public class MethodOverLoading {
     public static void main(String[] args) {

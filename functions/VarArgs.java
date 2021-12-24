@@ -1,4 +1,4 @@
-package com.manikanta;
+package com.manikanta.functions;
 import java.util.*;
 
 public class VarArgs {
