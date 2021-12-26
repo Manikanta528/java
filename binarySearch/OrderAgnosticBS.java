@@ -13,15 +13,10 @@ public class OrderAgnosticBS {
         int end = arr.length - 1;
         boolean iaOA = arr[start] < arr[end];
         if(iaOA == true) {
-            while (start < end) {
+            while (start <= end) {
 
                 int mid = start + (end - start) / 2;
-                if (arr[start] == target) {
-                    return start;
-                }
-                if (arr[end] == target) {
-                    return end;
-                }
+
                 if (arr[mid] == target) {
                     return mid;
                 } else if (target < arr[mid]) {
@@ -32,15 +27,10 @@ public class OrderAgnosticBS {
             }
         }
         else{
-                while (start < end ){
+                while (start <= end ){
 
                     int mid = start + (end - start )/2;
-                    if ( arr[start] == target ){
-                        return start;
-                    }
-                    if ( arr[end] == target){
-                        return end;
-                    }
+
                     if(arr[mid] == target) {
                         return mid;
                     }
