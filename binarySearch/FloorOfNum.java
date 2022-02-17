@@ -3,7 +3,7 @@ package com.manikanta.binarySearch;
 public class FloorOfNum {
     public static void main(String[] args) {
         int[] arr = {-18, -11, -9, -2,-1, 0 , 4, 12, 22, 44, 83,100};
-        int target = -44;
+        int target = -2;
         int ans = floor(arr , target);
         System.out.println(ans);
     }
