@@ -13,7 +13,8 @@ public class SimpleInterest {
         int time = sc.nextInt();
         System.out.print("Enter annual interest rate :");
         int rate = sc.nextInt();
-        int si = principal + (1 + rate * time);
+        int si = (principal * rate * time)/100;
         System.out.println("Simple Interest : "+ si);
+
     }
 }
