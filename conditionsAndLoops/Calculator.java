@@ -32,11 +32,11 @@ public class Calculator {
                 if (op == '%') {
                     ans = num1 % num2;
                 }
-            } else if (op == 'X' || op == 'x') {
+                } else if (op == 'X' || op == 'x') {
                 break;
-            } else {
+                } else {
                 System.out.println("Invalid Operation");
-            }
+                }
             System.out.println(ans);
         }
 
