@@ -4,6 +4,7 @@ public class Box {
     private double l;
     double h;
     double w;
+//    double weight;
 
     Box(){
         this.l = -1;
