@@ -5,6 +5,10 @@ package com.manikanta.oop.properties.inheritance;
 public class BoxWeight extends Box{
     double weight;
 
+    public static void greeting(){
+        System.out.println("Hey i am in BoxWeight Class");
+    }
+
     public BoxWeight(){
         this.weight  = -1;
     }

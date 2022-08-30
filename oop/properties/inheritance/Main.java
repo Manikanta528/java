@@ -2,8 +2,8 @@ package com.manikanta.oop.properties.inheritance;
 
 public class Main {
     public static void main(String[] args) {
-//        Box box1 = new Box(4.6,7.9,9.3);
-//        Box box2 = new Box(box1);
+        Box box1 = new Box(4.6,7.9,9.3);
+        Box box2 = new Box(box1);
 //        System.out.println(box1.l +" "+ box1.h +" " + box1.w);
 
 //        BoxWeight box3 = new BoxWeight();
@@ -19,7 +19,8 @@ public class Main {
 //        BoxWeight box6 = new Box();
 //        System.out.println(box6);
 
-
-        BoxPrice box = new BoxPrice(5,8,200);
+//        box1.greeting();
+        Box box = new BoxWeight(5,8);
+        box.greeting(); // you can inherit but you cannot override
     }
 }
