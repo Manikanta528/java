@@ -2,13 +2,15 @@ package com.manikanta.linkedList;
 
 public class Main {
     public static void main(String[] args) {
-//        LL list = new LL();
-//        list.insertFirst(3);
-//        list.insertFirst(11);
-//        list.insertFirst(24);
-//        list.insertFirst(36);
-//        list.insertLast(2);
-//        list.insert(27,3);
+        LL list = new LL();
+        list.insertFirst(3);
+        list.insertFirst(11);
+        list.insertFirst(24);
+        list.insertFirst(36);
+        list.insertLast(2);
+        list.insert(27,3);
+        list.insertRec(88,2);
+        list.display();
 //        System.out.println(list.find(24));
 //        list.display();
 //        System.out.println(list.deleteFirst());
@@ -28,13 +30,13 @@ public class Main {
 //        list.insert(43, 44);
 //        list.display();
 
-        CLL list  =  new CLL();
-        list.insert(1);
-        list.insert(2);
-        list.insert(28);
-        list.delete(42);
-        list.insert(43);
-        list.insert(50);
-        list.display();
+//        CLL list  =  new CLL();
+//        list.insert(1);
+//        list.insert(2);
+//        list.insert(28);
+//        list.delete(42);
+//        list.insert(43);
+//        list.insert(50);
+//        list.display();
     }
 }
