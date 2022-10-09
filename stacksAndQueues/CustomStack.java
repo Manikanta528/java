@@ -38,11 +38,11 @@ public class CustomStack {
         return data[ptr];
     }
 
-    private boolean isFull() {
+    public boolean isFull() {
         if(ptr+1 ==  data.length) return true;
         return false;
     }
-    private boolean isEmpty() {
+    public boolean isEmpty() {
         if(ptr ==  -1) return true;
         return false;
     }
