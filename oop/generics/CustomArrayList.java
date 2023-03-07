@@ -1,6 +1,5 @@
 package com.manikanta.oop.generics;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class CustomArrayList {
